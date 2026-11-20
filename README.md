@@ -1,5 +1,13 @@
 # Chegg vs ChatGPT — AI Disruption & Learning Analytics
 
+
+## 🚀 Live Dashboard
+
+[**View the Interactive Chegg vs ChatGPT Analytics Dashboard**](https://radheshyam1233-chegg-vs-chatgpt-ai-disrupti-appdashboard-zn7rsb.streamlit.app/)
+
+Explore three sections: Chegg financial disruption, ASSISTments student learning analytics, and stock performance with market-sizing scenarios.
+
+
 **SQL · Python · Power BI · Data Analytics · Business Strategy**
 
 A three-part reproducible portfolio analyzing (1) Chegg financial disruption, (2) learning effects associated with hints in ASSISTments, and (3) equity performance and an AI-first Indian test-prep product scenario.
