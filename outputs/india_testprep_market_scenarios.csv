@@ -1,0 +1,4 @@
+scenario,learners,annual_spend_inr,capture_rate,opportunity_crore,captured_revenue_crore
+Conservative,5000000,1500,0.02,750.0,15.0
+Base,10000000,2000,0.05,2000.0,100.0
+Optimistic,15000000,2500,0.08,3750.0,300.0

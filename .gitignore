@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+*.db
+*.sqlite
+data/assistments*.csv
+outputs/assistments_*.csv
+outputs/final_mastery_comparison.csv
+outputs/stock_*.csv
+outputs/chegg_stock_history.csv
+*.pbix.bak
