@@ -1,0 +1,2 @@
+source_rows,unique_students,unique_order_ids,missing_skill_rows,non_atomic_skill_rows,missing_opportunity_rows,duplicate_student_skill_opportunities,invalid_correct_rows,eligible_rows_after_audit_rules
+525534,4217,346860,66326,0,0,0,0,459208

@@ -1,0 +1,4 @@
+help_group,student_skill_pairs,mastered_pairs,mastery_rate_pct,avg_observed_opportunities_to_mastery_among_mastered,avg_absolute_mastery_opportunity
+Bottom Hint,5014,2177,43.42,10.49,10.49
+Guided Hints,2830,1691,59.75,6.47,6.47
+No Hints,34138,18316,53.65,5.27,5.27
